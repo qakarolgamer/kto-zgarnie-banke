@@ -1,0 +1,7 @@
+{
+  "appId": "pl.ktozgarniebanke.gra",
+  "appName": "Kto zgarnie Bańkę?",
+  "webDir": "www",
+  "backgroundColor": "#07051a",
+  "android": { "allowMixedContent": false }
+}

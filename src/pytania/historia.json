@@ -1,0 +1,678 @@
+[
+ {
+  "q": "Co w 1325 roku Modeńczycy zabrali Bolończykom jako łup wojenny po bitwie pod Zappolino?",
+  "a": [
+   "Najgrubszego burmistrza",
+   "Przepis na sos boloński",
+   "Drewniane wiadro ze studni",
+   "Dzwon z ratusza"
+  ],
+  "c": 2,
+  "f": "Zwycięzcy zgarnęli <b>wiadro</b> spod studni przy bramie Bolonii i czcili je jak relikwię. Powstał nawet poemat „Porwane wiadro”.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Battle_of_Zappolino"
+ },
+ {
+  "q": "Co rozpętało „Świńską wojnę” USA z Wielką Brytanią na wyspie San Juan w 1859 roku?",
+  "a": [
+   "Świnia wygrała wybory na sołtysa",
+   "Spór o przepis na boczek",
+   "Świnia przepłynęła granicę na tratwie",
+   "Świnia zjadła sąsiadowi ziemniaki"
+  ],
+  "c": 3,
+  "f": "Amerykański farmer zastrzelił brytyjską świnię, która buszowała w jego <b>ziemniakach</b>. Spór rozstrzygnął dopiero cesarz Niemiec w 1871 – i nikt z ludzi nie ucierpiał.",
+  "tier": 2,
+  "src": "https://everything-everywhere.com/the-pig-war-of-1859/"
+ },
+ {
+  "q": "Kto w 1871 roku jako arbiter rozstrzygnął, do kogo należą wyspy ze „Świńskiej wojny”?",
+  "a": [
+   "Papież",
+   "Cesarz Niemiec",
+   "Rzut monetą w saloonie",
+   "Królowa Wiktoria osobiście"
+  ],
+  "c": 1,
+  "f": "Sprawę świni i ziemniaków oddano w ręce <b>cesarza Niemiec</b>, który przyznał wyspy San Juan Stanom Zjednoczonym. Poważna dyplomacja, niepoważny początek.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Pig_War_(1859)"
+ },
+ {
+  "q": "Z kim Holandia „zawarła pokój” dopiero w 1986 roku, kończąc rzekomą 335-letnią wojnę?",
+  "a": [
+   "Z Watykanem",
+   "Z Księstwem Monako",
+   "Z wyspami Scilly",
+   "Z Belgią"
+  ],
+  "c": 2,
+  "f": "Lokalny historyk odkrył, że nikt nie podpisał pokoju z 1651 r., więc ambasador Holandii przyjechał i uroczyście ogłosił koniec „wojny” z wyspami <b>Scilly</b>. Ofiar: zero.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years%27_War"
+ },
+ {
+  "q": "Co zostawiali sobie nawzajem Duńczycy i Kanadyjczycy na spornej Wyspie Hansa?",
+  "a": [
+   "Listy miłosne",
+   "Flagi i butelki alkoholu",
+   "Miny przeciwpiechotne",
+   "Hodowle pingwinów"
+  ],
+  "c": 1,
+  "f": "„Wojna o whisky” polegała na wbijaniu flagi i zostawianiu <b>butelki</b> – sznapsa od Duńczyków, kanadyjskiej whisky od Kanadyjczyków. W 2022 roku wyspę po prostu podzielono na pół.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Hans_Island"
+ },
+ {
+  "q": "Od czyjej krzywdy zaczęła się „wojna cukiernicza” Francji z Meksykiem (1838)?",
+  "a": [
+   "Hiszpańskiego torreadora",
+   "Papugi ambasadora",
+   "Francuskiego cukiernika",
+   "Meksykańskiego tancerza"
+  ],
+  "c": 2,
+  "f": "Francuski <b>cukiernik</b> Remontel skarżył się, że meksykańscy oficerowie splądrowali mu ciastkarnię. Francja upomniała się o odszkodowanie… flotą.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Pastry_War"
+ },
+ {
+  "q": "Co dostał Michigan „na pocieszenie” po przegranej z Ohio „wojnie o Toledo”?",
+  "a": [
+   "Dożywotni zapas ciasta",
+   "Prawo do nazwy „Toledo II”",
+   "Kawałek Kanady",
+   "Górny Półwysep (Upper Peninsula)"
+  ],
+  "c": 3,
+  "f": "Michigan oddał Toledo, a w zamian dostał <b>Górny Półwysep</b> – wtedy uznawany za kiepską nagrodę, dziś dumę stanu.",
+  "tier": 3,
+  "src": "https://www.michigan.gov/dmva/about/history/military-events/highlights/the-toledo-war"
+ },
+ {
+  "q": "Co się stało, gdy w 2007 roku 170 szwajcarskich żołnierzy zgubiło się w nocy na ćwiczeniach?",
+  "a": [
+   "Zostali pasterzami kóz",
+   "Weszli niechcący do Liechtensteinu",
+   "Założyli własny kanton",
+   "Wylądowali w Paryżu"
+  ],
+  "c": 1,
+  "f": "Oddział zabłądził ok. 1,5 km w głąb <b>Liechtensteinu</b>. Szwajcaria przeprosiła, a Liechtenstein odparł: „Nie ma problemu, takie rzeczy się zdarzają”.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Liechtenstein"
+ },
+ {
+  "q": "Jak władze Strasburga „leczyły” tańczącą epidemię z 1518 roku?",
+  "a": [
+   "Zakazały muzyki pod karą grzywny",
+   "Kazały wszystkim usiąść na jeżach",
+   "Wynajęły muzyków i zbudowały scenę",
+   "Zorganizowały konkurs na najgorszy taniec"
+  ],
+  "c": 2,
+  "f": "Lekarze orzekli, że trzeba… <b>więcej tańczyć</b>. Miasto oddało tancerzom hale, postawiło scenę i opłaciło muzyków.",
+  "tier": 3,
+  "src": "https://www.medievalists.net/2012/02/in-a-spin-the-mysterious-dancing-epidemic-of-1518/"
+ },
+ {
+  "q": "Ile naprawdę mierzył Napoleon Bonaparte?",
+  "a": [
+   "Ok. 150 cm",
+   "Ok. 2 m, ale się garbił",
+   "Ok. 140 cm, stąd buty na koturnie",
+   "Ok. 168–170 cm – przeciętnie"
+  ],
+  "c": 3,
+  "f": "Napoleon miał ok. <b>170 cm</b>, czyli normalnie jak na Francuza tamtych czasów. Mit „kurdupla” zrobiły mu brytyjskie karykatury i mylenie francuskich cali z angielskimi.",
+  "tier": 1,
+  "src": "https://www.britannica.com/story/was-napoleon-short"
+ },
+ {
+  "q": "Skąd wziął się obraz wikinga w hełmie z rogami?",
+  "a": [
+   "Z reklamy piwa z 1950 r.",
+   "Z kostiumów do opery Wagnera (1876)",
+   "Z wykopalisk wszystkich grobów wikingów",
+   "Z relacji Kolumba"
+  ],
+  "c": 1,
+  "f": "Wikingowie rogów na hełmach nie nosili. Rogi doprawił im kostiumograf Carl Emil Doepler do <b>„Pierścienia Nibelunga” Wagnera</b>.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Carl_Emil_Doepler"
+ },
+ {
+  "q": "Co musiał nosić przy sobie Rosjanin, który zapłacił podatek od brody za Piotra Wielkiego?",
+  "a": [
+   "Dzwoneczek przy brodzie",
+   "Zaświadczenie od cyrulika",
+   "Brodę innego koloru",
+   "Żeton z wizerunkiem brody"
+  ],
+  "c": 3,
+  "f": "Opłacona broda wymagała „dokumentu” – miedzianego <b>żetonu</b> z wybitym nosem, wąsami i brodą. Dopiero Katarzyna Wielka zniosła podatek w 1772 roku.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Beard_tax"
+ },
+ {
+  "q": "Który „podatek od brody” to NIEPOTWIERDZONA legenda?",
+  "a": [
+   "Podatek od braku brody w Jemenie 1936",
+   "Opłata od bród księży za Franciszka I",
+   "Podatek Henryka VIII w Anglii",
+   "Podatek Piotra Wielkiego w Rosji"
+  ],
+  "c": 2,
+  "f": "Angielski podatek od brody <b>Henryka VIII</b> to legenda – brytyjskie archiwa narodowe nie mają po nim śladu. Pozostałe trzy naprawdę istniały.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Beard_tax"
+ },
+ {
+  "q": "Co opodatkował rzymski cesarz Wespazjan, mówiąc „pieniądze nie śmierdzą”?",
+  "a": [
+   "Czosnek",
+   "Skarpety legionistów",
+   "Mocz z publicznych latryn",
+   "Perfumy"
+  ],
+  "c": 2,
+  "f": "Wespazjan opodatkował <b>mocz</b>, który garbarze i folusznicy kupowali z latryn. Jego imię do dziś noszą pisuary we Francji (vespasiennes).",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Pecunia_non_olet"
+ },
+ {
+  "q": "Jakie imię dla syna próbowali w 1996 roku zarejestrować protestujący szwedzcy rodzice?",
+  "a": [
+   "Ikea Billy Svensson",
+   "Smörgåsbord",
+   "Abba Abba Abba",
+   "43-znakowe „Brfxxccxxmnpccc…11116”"
+  ],
+  "c": 3,
+  "f": "Rodzice zgłosili <b>„Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116”</b> jako „dzieło artystyczne”. Sąd odmówił, a potem odrzucił też ich drugi pomysł – imię „A”.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Naming_law_in_Sweden"
+ },
+ {
+  "q": "Co obowiązkowo mierzy się Japończykom w wieku 40–74 lat w ramach tzw. „prawa metabo”?",
+  "a": [
+   "Obwód w pasie",
+   "Długość nosa",
+   "Liczbę ukłonów dziennie",
+   "Prędkość jedzenia sushi"
+  ],
+  "c": 0,
+  "f": "Japonia mierzy <b>obwód talii</b> – limit to 85 cm dla mężczyzn i 90 cm dla kobiet. Kary za brak efektów grożą jednak firmom i samorządom, a nie samym brzuchom.",
+  "tier": 2,
+  "src": "https://theworld.org/stories/2017/03/10/fat-japan-youre-breaking-law"
+ },
+ {
+  "q": "Czego zabrania brytyjska ustawa Salmon Act z 1986 roku?",
+  "a": [
+   "„Podejrzanego obchodzenia się z łososiem”",
+   "Malowania łososi na różowo",
+   "Mówienia „łosoś” po 22:00",
+   "Trzymania łososia jako zwierzaka"
+  ],
+  "c": 0,
+  "f": "Ustawa naprawdę penalizuje <b>obchodzenie się z łososiem w podejrzanych okolicznościach</b> – chodzi o rybę, co do której masz podstawy sądzić, że złowiono ją nielegalnie.",
+  "tier": 2,
+  "src": "https://www.legislation.gov.uk/ukpga/1986/62/section/32/enacted"
+ },
+ {
+  "q": "Ile trwało panowanie francuskiego króla Ludwika XIX w 1830 roku?",
+  "a": [
+   "Ok. 3 tygodnie",
+   "Ok. 20 minut",
+   "Jeden weekend",
+   "Dokładnie rok"
+  ],
+  "c": 1,
+  "f": "Po abdykacji ojca Ludwik XIX był królem mniej więcej <b>20 minut</b>, po czym sam podpisał abdykację. Szybciej niż przerwa na kawę.",
+  "tier": 2,
+  "src": "https://www.guinnessworldrecords.com/world-records/shortest-reign-of-a-monarch/"
+ },
+ {
+  "q": "Kim ogłosił się w 1859 roku Joshua Norton z San Francisco?",
+  "a": [
+   "Szeryfem całego Dzikiego Zachodu",
+   "Cesarzem Stanów Zjednoczonych",
+   "Papieżem Ameryki",
+   "Królem Kalifornii i Księżyca"
+  ],
+  "c": 1,
+  "f": "Norton I, <b>Cesarz Stanów Zjednoczonych</b>, „rozwiązał” Kongres i wydawał własne banknoty, które niektóre lokale naprawdę przyjmowały.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Emperor_Norton"
+ },
+ {
+  "q": "Z czego był przekonany, że jest zrobiony, król Francji Karol VI Szalony?",
+  "a": [
+   "Z sera brie",
+   "Z masła",
+   "Z porcelany chińskiej",
+   "Ze szkła"
+  ],
+  "c": 3,
+  "f": "Karol VI bał się, że się stłucze, bo jest ze <b>szkła</b>, więc podobno wszywano mu w ubrania żelazne pręty.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Glass_delusion"
+ },
+ {
+  "q": "Czym zajmował się na dworze Henryka VIII „Groom of the Stool”?",
+  "a": [
+   "Asystował królowi przy toalecie",
+   "Czesał królewskie konie",
+   "Pilnował królewskich taboretów",
+   "Testował trucizny w jedzeniu"
+  ],
+  "c": 0,
+  "f": "„Stool” to tu królewski sedes – dworzanin asystował władcy przy <b>toalecie</b>. Fucha była prestiżowa, bo dawała prywatny dostęp do króla.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Groom_of_the_Stool"
+ },
+ {
+  "q": "Do kogo z mocy prawa należą nieoznakowane łabędzie nieme na otwartych wodach w Anglii?",
+  "a": [
+   "Do Greenpeace",
+   "Do Korony",
+   "Do każdego, kto pierwszy je złapie",
+   "Do premiera"
+  ],
+  "c": 1,
+  "f": "Łabędzie należą do <b>Korony</b>. Na Tamizie władca dzieli się nimi z dwoma starymi cechami: winiarzy i farbiarzy.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Swan_Upping"
+ },
+ {
+  "q": "Kogo słynnie bronił w sądzie w Autun (1508) prawnik Barthélemy de Chasseneuz?",
+  "a": [
+   "Wiatru, który zerwał dach",
+   "Smoka z pobliskiej jaskini",
+   "Kota oskarżonego o czary",
+   "Szczurów, które zjadły jęczmień"
+  ],
+  "c": 3,
+  "f": "W średniowiecznej Francji sądzono też zwierzęta – Chasseneuz zrobił karierę, broniąc <b>szczurów</b> oskarżonych o zniszczenie zbiorów jęczmienia.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Barth%C3%A9lemy_de_Chasseneuz"
+ },
+ {
+  "q": "Po co szop Rebecca trafił w 1926 roku do Białego Domu prezydenta Coolidge'a?",
+  "a": [
+   "Do pilnowania Gabinetu Owalnego",
+   "Miał być obiadem na Święto Dziękczynienia",
+   "Jako maskotka drużyny baseballowej",
+   "Jako agent wywiadu"
+  ],
+  "c": 1,
+  "f": "Rebecca miała zostać <b>daniem na Święto Dziękczynienia</b>, ale Coolidge nie miał ochoty na szopa i zrobił z niej domowego pupila.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Rebecca_(raccoon)"
+ },
+ {
+  "q": "Jak brzmi tytuł kanonu Mozarta KV 231?",
+  "a": [
+   "„Sonata dla znudzonego kota”",
+   "„Liż mnie w d…” (Leck mich im Arsch)",
+   "„Oda do ziemniaka”",
+   "„Requiem dla mojej peruki”"
+  ],
+  "c": 1,
+  "f": "Geniusz z Salzburga napisał kanon „<b>Leck mich im Arsch</b>” – mniej więcej „pocałuj mnie w tyłek”. Klasyka!",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Leck_mich_im_Arsch"
+ },
+ {
+  "q": "Co „sprzedał” na złom oszust Victor Lustig w Paryżu w 1925 roku?",
+  "a": [
+   "Luwr z zawartością",
+   "Łuk Triumfalny",
+   "Most Aleksandra III",
+   "Wieżę Eiffla"
+  ],
+  "c": 3,
+  "f": "Udając urzędnika ministerstwa, Lustig sprzedał handlarzom złomu <b>wieżę Eiffla</b>. Spróbował nawet drugi raz, ale wtedy już musiał uciekać do USA.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Victor_Lustig"
+ },
+ {
+  "q": "Kto w Boże Narodzenie 1950 roku wykradł z Opactwa Westminsterskiego Kamień ze Scone?",
+  "a": [
+   "Czworo studentów z Glasgow",
+   "Członkowie rodziny królewskiej",
+   "Mnisi z opactwa w ramach żartu",
+   "Złodzieje z Londynu dla kolekcjonera"
+  ],
+  "c": 0,
+  "f": "Kamień koronacyjny wynieśli <b>studenci z Glasgow</b> – i to tak sprawnie, że… pękł im na dwie części. Odnalazł się po kilku miesiącach.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Removal_of_the_Stone_of_Scone_in_1950"
+ },
+ {
+  "q": "Jak Fred Lorz „przebiegł” maraton olimpijski w St. Louis w 1904 roku?",
+  "a": [
+   "Część trasy przejechał samochodem",
+   "Pobiegł tyłem",
+   "Jechał na koniu przebrany za ducha",
+   "Biegł w samych skarpetkach"
+  ],
+  "c": 0,
+  "f": "Lorz zszedł z trasy, podjechał kawał <b>samochodem</b>, a gdy auto się zepsuło, dobiegł do mety. Tłumaczył potem, że to był żart.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Athletics_at_the_1904_Summer_Olympics_%E2%80%93_Men%27s_marathon"
+ },
+ {
+  "q": "Co zrobił Kubańczyk Andarín Carvajal podczas maratonu olimpijskiego w 1904 roku?",
+  "a": [
+   "Pobiegł z walizką po złą stronę",
+   "Zatrzymał się na ślub",
+   "Zgubił drogę i trafił do Kanady",
+   "Zjadł zgniłe jabłka i uciął sobie drzemkę"
+  ],
+  "c": 3,
+  "f": "Głodny Carvajal zjadł <b>zgniłe jabłka</b>, dostał skurczów, zdrzemnął się przy trasie… i i tak zajął czwarte miejsce.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Athletics_at_the_1904_Summer_Olympics_%E2%80%93_Men%27s_marathon"
+ },
+ {
+  "q": "Za co w latach 1912–1948 przyznawano medale olimpijskie oprócz sportu?",
+  "a": [
+   "Za najładniejszy uśmiech kibica",
+   "Za sztukę: malarstwo, rzeźbę, muzykę…",
+   "Za gotowanie bigosu",
+   "Za najdłuższą przemowę"
+  ],
+  "c": 1,
+  "f": "Na igrzyskach rozgrywano konkursy <b>sztuki</b> inspirowanej sportem. Węgier Alfréd Hajós zdobył złoto w pływaniu, a potem srebro za projekt stadionu.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Art_competitions_at_the_Summer_Olympics"
+ },
+ {
+  "q": "Który kraj miał w kalendarzu 30 lutego 1712 roku?",
+  "a": [
+   "Hiszpania",
+   "Polska",
+   "Japonia",
+   "Szwecja"
+  ],
+  "c": 3,
+  "f": "<b>Szwecja</b> zabrała się za zmianę kalendarza na raty, pogubiła się w latach przestępnych i dla ratowania sytuacji dodała 30 lutego.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/February_30"
+ },
+ {
+  "q": "Co skradziono w Quebecu w latach 2011–2012 w „Wielkim skoku” wartym 18,7 mln dolarów?",
+  "a": [
+   "Syrop klonowy",
+   "Złoto z banku",
+   "Kije hokejowe",
+   "Czapki uszanki"
+  ],
+  "c": 0,
+  "f": "Złodzieje wynieśli prawie 3000 ton <b>syropu klonowego</b> z magazynu federacji producentów. Najsłodsza kradzież w historii Kanady.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Great_Canadian_Maple_Syrup_Heist"
+ },
+ {
+  "q": "Do którego roku na Islandii zakazane było mocne piwo?",
+  "a": [
+   "Nigdy nie było zakazane",
+   "Do 1919",
+   "Do 1989",
+   "Do 1945"
+  ],
+  "c": 2,
+  "f": "Wino i wódkę Islandczycy odzyskali dużo wcześniej, ale <b>piwo</b> zalegalizowano dopiero 1 marca <b>1989</b>. Dziś to tam „Dzień Piwa”.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Beer_Day_(Iceland)"
+ },
+ {
+  "q": "Jak brytyjski poseł może zrezygnować z mandatu, skoro formalnie nie wolno mu ustąpić?",
+  "a": [
+   "Musi przepłynąć Tamizę",
+   "Kładzie się na środku sali",
+   "Przyjmuje fikcyjny urząd „Chiltern Hundreds”",
+   "Wysyła królowi kurę"
+  ],
+  "c": 2,
+  "f": "Posłowie nie mogą zrezygnować, ale urzędnik Korony nie może być posłem. Biorą więc pustą posadę zarządcy <b>Chiltern Hundreds</b> i znikają z Izby.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Chiltern_Hundreds"
+ },
+ {
+  "q": "Co spadło z nieba w hrabstwie Bath w Kentucky w marcu 1876 roku?",
+  "a": [
+   "Żywe żaby w kapeluszach",
+   "Monety z czasów Rzymu",
+   "Kawałki mięsa",
+   "Ciepłe naleśniki"
+  ],
+  "c": 2,
+  "f": "Był to słynny „deszcz <b>mięsa</b>”. Najpopularniejsze wyjaśnienie: przelatujące sępy zwróciły obiad.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Kentucky_meat_shower"
+ },
+ {
+  "q": "Co BBC poradziło widzom, którzy po reportażu z 1957 roku chcieli wyhodować drzewo spaghetti?",
+  "a": [
+   "Podlewać drzewo rosołem",
+   "Posadzić makaron w księżycową noc",
+   "Włożyć gałązkę spaghetti do sosu pomidorowego",
+   "Kupić sadzonkę w Szwajcarii"
+  ],
+  "c": 2,
+  "f": "Po primaaprilisowym reportażu „Panoramy” BBC radziło <b>włożyć spaghetti do puszki sosu pomidorowego</b> i liczyć na najlepsze.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Spaghetti-tree_hoax"
+ },
+ {
+  "q": "Kto zdobył ok. 100 tysięcy głosów w wyborach do rady miejskiej São Paulo w 1959 roku?",
+  "a": [
+   "Nosorożec Cacareco",
+   "Piłkarz Pelé",
+   "Papuga z zoo",
+   "Pomnik Chrystusa"
+  ],
+  "c": 0,
+  "f": "Mieszkańcy w proteście wpisywali na kartach <b>nosorożca Cacareco</b> z zoo. Komisja jej kandydatury, niestety, nie uznała.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Cacareco"
+ },
+ {
+  "q": "Od jakiego sporu zaczęła się Księga Rekordów Guinnessa?",
+  "a": [
+   "Która wieża jest najwyższa",
+   "Kto wypije najwięcej Guinnessa",
+   "Kto ma najdłuższe wąsy w pubie",
+   "Który ptak łowny w Europie jest najszybszy"
+  ],
+  "c": 3,
+  "f": "Szef browaru Sir Hugh Beaver kłócił się na polowaniu w 1951 r., czy szybszy jest siewka, czy pardwa. Nie było księgi, która rozstrzygnie <b>najszybszego ptaka łownego</b> – więc ją zrobiono.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Guinness_World_Records"
+ },
+ {
+  "q": "Jak długo czkał rekordzista Charles Osborne?",
+  "a": [
+   "Ponad 68 lat",
+   "Tydzień",
+   "3 lata",
+   "Całe 12 godzin"
+  ],
+  "c": 0,
+  "f": "Osborne czkał od 1922 do 1990 – ponad <b>68 lat</b>. Zaczęło się, gdy próbował podnieść ciężkiego wieprza.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Charles_Osborne_(hiccups)"
+ },
+ {
+  "q": "Co CIA próbowało zrobić w latach 60. w ramach projektu „Acoustic Kitty”?",
+  "a": [
+   "Zrobić z kotów żywe podsłuchy",
+   "Wysłać kota na Księżyc",
+   "Wyhodować kota-ochroniarza",
+   "Nauczyć koty szyfru Morse'a"
+  ],
+  "c": 0,
+  "f": "Kotom wszczepiano mikrofony i nadajniki, żeby <b>podsłuchiwały</b> Sowietów. Koty jednak robiły, co chciały, i projekt zamknięto w 1967 roku.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Acoustic_Kitty"
+ },
+ {
+  "q": "Kogo miasto Christchurch w Nowej Zelandii przez 23 lata zatrudniało na oficjalnym kontrakcie?",
+  "a": [
+   "Czarodzieja",
+   "Zaklinacza deszczu z Peru",
+   "Smokobójcę",
+   "Królewskiego błazna"
+  ],
+  "c": 0,
+  "f": "Ian Brackenbury Channell był oficjalnym <b>Czarodziejem Nowej Zelandii</b> – w 1998 r. dostał umowę na 16 tys. dolarów rocznie. Rada miasta „odczarowała” go w 2021.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Wizard_of_New_Zealand"
+ },
+ {
+  "q": "Przez jaką epidemię w 1962 roku w Tanganice (dziś Tanzania) zamknięto 14 szkół?",
+  "a": [
+   "Epidemię ziewania",
+   "Epidemię kichania",
+   "Epidemię śmiechu",
+   "Epidemię czkawki"
+  ],
+  "c": 2,
+  "f": "Zaczęło się w szkole dla dziewcząt w Kashasha – napady <b>śmiechu</b> rozlały się tak szeroko, że trzeba było zamykać kolejne szkoły.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Tanganyika_laughter_epidemic"
+ },
+ {
+  "q": "Na co patent (jako jedyny prezydent USA) uzyskał Abraham Lincoln?",
+  "a": [
+   "Urządzenie do przenoszenia łodzi nad mielizną",
+   "Maszynkę do golenia brody",
+   "Automat do strugania ołówków",
+   "Cylinder z kieszenią na listy"
+  ],
+  "c": 0,
+  "f": "Lincoln w 1849 r. opatentował system <b>pływaków do podnoszenia łodzi nad mieliznami</b>. Nigdy go nie wyprodukowano, ale patent jest!",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_patent"
+ },
+ {
+  "q": "Co oznacza „S” w imieniu prezydenta Harry'ego S. Trumana?",
+  "a": [
+   "Sebastian",
+   "Samuel",
+   "Superman",
+   "Nic konkretnego – to samo „S”"
+  ],
+  "c": 3,
+  "f": "„S” <b>nie jest skrótem</b> żadnego imienia – to ukłon w stronę obu dziadków, których imiona zawierały „S”.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+ },
+ {
+  "q": "Kogo przesłuchiwała policja po kradzieży „Mony Lisy” z Luwru w 1911 roku?",
+  "a": [
+   "Pabla Picassa",
+   "Claude'a Moneta",
+   "Salvadora Dalego",
+   "Vincenta van Gogha"
+  ],
+  "c": 0,
+  "f": "Podejrzanym był m.in. <b>Picasso</b>, ale obraz ukradł pracownik Luwru Vincenzo Peruggia, który wyniósł go pod płaszczem.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Mona_Lisa"
+ },
+ {
+  "q": "Ile USA zapłaciły Rosji za Alaskę w 1867 roku?",
+  "a": [
+   "1 dolara symbolicznie",
+   "7,2 mln dolarów",
+   "Beczkę whisky i dwa konie",
+   "72 mld dolarów"
+  ],
+  "c": 1,
+  "f": "Za Alaskę zapłacono <b>7,2 mln dolarów</b> – ok. 2 centy za akr. Krytycy wyśmiewali zakup jako „głupotę Sewarda” albo „Morsję”.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Alaska_Purchase"
+ },
+ {
+  "q": "Co dokładnie jest zakazane w Singapurze od 1992 roku w sprawie gumy do żucia?",
+  "a": [
+   "Sprzedaż i import (poza leczniczą)",
+   "Samo żucie, nawet w domu",
+   "Robienie balonów tylko w metrze",
+   "Guma owocowa, miętowa jest OK"
+  ],
+  "c": 0,
+  "f": "W Singapurze nie <b>sprzedaje się</b> gumy (wyjątek: lecznicza z apteki). Samo żucie nie jest przestępstwem – ale plucie gumą już tak.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Chewing_gum_sales_ban_in_Singapore"
+ },
+ {
+  "q": "O co pokłócił się Tycho Brahe w pojedynku, w którym stracił kawałek nosa?",
+  "a": [
+   "Kto jest lepszym matematykiem",
+   "O ostatni kawałek śledzia",
+   "O kolor nieba",
+   "Czy Ziemia jest płaska"
+  ],
+  "c": 0,
+  "f": "Młody astronom pojedynkował się z kuzynem o to, kto lepszy z <b>matematyki</b>. Potem do końca życia nosił protezę nosa – według badań z mosiądzu.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+ },
+ {
+  "q": "Co jest prawdą o słowach „Niech jedzą ciastka” przypisywanych Marii Antoninie?",
+  "a": [
+   "Krzyknęła je na gilotynie",
+   "Powiedziała je na koronacji",
+   "Wyhaftowała je na fladze",
+   "Brak dowodu, że je wypowiedziała"
+  ],
+  "c": 3,
+  "f": "Anegdota pojawia się u Rousseau, gdy Maria Antonina miała ok. 9 lat i nie mieszkała we Francji. <b>Nie ma dowodu</b>, że to ona – a w oryginale chodziło o briosze.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Let_them_eat_cake"
+ },
+ {
+  "q": "Komu nie wolno wejść do sal gier słynnego kasyna w Monte Carlo?",
+  "a": [
+   "Osobom w skarpetkach",
+   "Ludziom o imieniu Jacques",
+   "Turystom bez krawata w paski",
+   "Obywatelom Monako"
+  ],
+  "c": 3,
+  "f": "Kasyno żyje z przyjezdnych, a <b>obywatele Monako</b> mają zakaz wstępu do sal gier.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Monte_Carlo_Casino"
+ },
+ {
+  "q": "Do którego roku w Paryżu formalnie obowiązywał przepis wymagający od kobiet zgody policji na noszenie spodni?",
+  "a": [
+   "Do 1918",
+   "Do 2013",
+   "Do 1968",
+   "Do 1848"
+  ],
+  "c": 1,
+  "f": "Przepis z 1800 roku dawno nikogo nie obchodził, ale formalnie uchylono go dopiero w <b>2013</b> roku.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Trousers_as_women%27s_clothing"
+ },
+ {
+  "q": "Co według konstytucji Kentucky wyklucza z pełnienia urzędu publicznego?",
+  "a": [
+   "Brak kowbojskiego kapelusza",
+   "Wegetarianizm",
+   "Nieumiejętność jazdy konno",
+   "Udział w pojedynku"
+  ],
+  "c": 3,
+  "f": "Zapis z XIX wieku przetrwał do dziś – kto od 1850 r. brał udział w <b>pojedynku</b>, nie może pełnić urzędu.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Constitution_of_Kentucky"
+ }
+]

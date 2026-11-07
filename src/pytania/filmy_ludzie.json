@@ -1,0 +1,678 @@
+[
+ {
+  "q": "Jaki zawód miał Mario w swoim debiucie, grze Donkey Kong z 1981 roku?",
+  "a": [
+   "Hydraulik",
+   "Cieśla",
+   "Pizzaiolo",
+   "Listonosz"
+  ],
+  "c": 1,
+  "f": "Zanim zaczął przepychać rury, Mario był <b>cieślą</b> i nazywał się po prostu Jumpman. Hydraulikiem został dopiero później.",
+  "tier": 2,
+  "src": "https://www.mariowiki.com/Jump_Man"
+ },
+ {
+  "q": "Pac-Man w Japonii nazywał się Puck-Man. Czemu na Zachodzie zmieniono mu imię?",
+  "a": [
+   "Bo brzmiało jak krążek hokejowy",
+   "Bo wandale łatwo przerobiliby literę P",
+   "Bo był już taki proszek do prania",
+   "Bo Amerykanie nie wymawiają „u”"
+  ],
+  "c": 1,
+  "f": "Bano się, że łobuzy flamastrem przerobią <b>P na F</b> i automat zrobi się mocno niecenzuralny. Bezpieczniej było nazwać go Pac.",
+  "tier": 2,
+  "src": "https://www.computerhistory.org/revolution/artifact/192/796"
+ },
+ {
+  "q": "Co według twórcy Toru Iwataniego zainspirowało kształt Pac-Mana?",
+  "a": [
+   "Moneta 100 jenów",
+   "Pizza bez jednego kawałka",
+   "Otwarta muszla małży",
+   "Japoński znak „usta”"
+  ],
+  "c": 1,
+  "f": "Iwatani wziął kawałek <b>pizzy</b>, spojrzał na resztę i zobaczył bohatera. Najsłynniejszy żarłok w grach powstał z obiadu.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Pac-Man"
+ },
+ {
+  "q": "Skąd pochodzi słynna melodia z Tetrisa na Game Boya?",
+  "a": [
+   "Z hymnu Związku Radzieckiego",
+   "Z XIX-wiecznej rosyjskiej piosenki ludowej",
+   "Z dzwonka telefonu Nokii",
+   "Z czołówki radzieckiej kreskówki"
+  ],
+  "c": 1,
+  "f": "To <b>Korobiejniki</b> – stara rosyjska pieśń o wędrownych handlarzach. Babcie nuciły ją, zanim ktokolwiek układał klocki.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Korobeiniki"
+ },
+ {
+  "q": "Jaka gra jako pierwsza poleciała w kosmos (Game Boy na stacji Mir, 1993)?",
+  "a": [
+   "Pong",
+   "Super Mario Land",
+   "Tetris",
+   "Pac-Man"
+  ],
+  "c": 2,
+  "f": "Kosmonauta Aleksandr Sieriebrow zabrał na orbitę Game Boya z <b>Tetrisem</b>. Radziecka gra wróciła do domu – tylko trochę wyżej.",
+  "tier": 2,
+  "src": "https://www.guinnessworldrecords.com/world-records/109302-first-videogame-in-space"
+ },
+ {
+  "q": "Która gra jest najlepiej sprzedającą się grą wideo wszech czasów (wg Guinnessa)?",
+  "a": [
+   "GTA V",
+   "Minecraft",
+   "Wii Sports",
+   "Super Mario Bros."
+  ],
+  "c": 1,
+  "f": "<b>Minecraft</b> przekroczył 350 mln sprzedanych kopii. Kanciaste kopanie dziur okazało się najlepszym biznesem w historii gier.",
+  "tier": 1,
+  "src": "https://www.guinnessworldrecords.com/world-records/best-selling-video-game"
+ },
+ {
+  "q": "Co w 2014 roku wykopano na wysypisku w Alamogordo w Nowym Meksyku?",
+  "a": [
+   "Prototyp pierwszego Game Boya",
+   "Tysiące kartridży z grą E.T. od Atari",
+   "Zaginione taśmy z „Gwiezdnych wojen”",
+   "Szkielet kostiumu King Konga"
+  ],
+  "c": 1,
+  "f": "Atari w 1983 r. zakopało tony niesprzedanych gier, w tym osławione <b>E.T.</b>. Archeolodzy popkultury je odkopali – legenda okazała się prawdą.",
+  "tier": 2,
+  "src": "https://www.thehenryford.org/collections/explore/artifact/403653"
+ },
+ {
+  "q": "Gdzie latami wystawiano nadpalonego Game Boya, który przetrwał bombardowanie w wojnie w Zatoce Perskiej?",
+  "a": [
+   "W Pentagonie",
+   "W sklepie Nintendo w Nowym Jorku",
+   "W muzeum w Bagdadzie",
+   "W siedzibie NASA"
+  ],
+  "c": 1,
+  "f": "Stopiony, ale wciąż działający Game Boy stał w <b>sklepie Nintendo w Nowym Jorku</b>, aż zdjęto go w 2023 r. Pancerniejszy niż niejeden czołg.",
+  "tier": 3,
+  "src": "https://www.gamespot.com/articles/the-gulf-war-game-boy-is-finally-being-put-to-rest/1100-6515607/"
+ },
+ {
+  "q": "Ile czasu zajęło grze GTA V zarobienie pierwszego miliarda dolarów?",
+  "a": [
+   "3 dni",
+   "3 tygodnie",
+   "3 miesiące",
+   "3 lata"
+  ],
+  "c": 0,
+  "f": "Wystarczyły <b>3 dni</b> – szybciej niż jakikolwiek film czy produkt rozrywkowy wcześniej. Los Santos to jednak dobry interes.",
+  "tier": 2,
+  "src": "https://guinnessworldrecords.com/world-records/105330-fastest-entertainment-property-to-gross-1-billion"
+ },
+ {
+  "q": "Po kim dostała imię księżniczka Zelda?",
+  "a": [
+   "Po babci Miyamoto",
+   "Po żonie pisarza F. Scotta Fitzgeralda",
+   "Po kotce prezesa Nintendo",
+   "Po bohaterce telenoweli"
+  ],
+  "c": 1,
+  "f": "Shigeru Miyamoto pożyczył imię od <b>Zeldy Fitzgerald</b>, żony autora „Wielkiego Gatsby'ego”. Hyrule ma literackie korzenie.",
+  "tier": 3,
+  "src": "https://lithub.com/did-you-know-the-legend-of-zelda-heroine-was-named-after-zelda-fitzgerald"
+ },
+ {
+  "q": "Który Pokémon został zaprojektowany jako pierwszy w historii?",
+  "a": [
+   "Pikachu",
+   "Bulbasaur",
+   "Rhydon",
+   "Mew"
+  ],
+  "c": 2,
+  "f": "Choć Bulbasaur ma numer 1, pierwszy na desce kreślarskiej był <b>Rhydon</b> – kamienny nosorożec. Pikachu musiał poczekać w kolejce.",
+  "tier": 4,
+  "src": "https://www.guinnessworldrecords.com/world-records/118127-first-pokemon-character"
+ },
+ {
+  "q": "Co oprócz Atari założył Nolan Bushnell, twórca automatu Pong?",
+  "a": [
+   "Sieć pizzerii Chuck E. Cheese",
+   "Firmę Nintendo of America",
+   "Wytwórnię Pixar",
+   "Sieć kin IMAX"
+  ],
+  "c": 0,
+  "f": "Bushnell wymyślił <b>Chuck E. Cheese</b> – pizzerie z automatami i śpiewającymi robotami. Biznesplan: dzieci grają, rodzice płacą za pizzę.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Nolan_Bushnell"
+ },
+ {
+  "q": "W jakim języku rozmawiają bohaterowie gry The Sims?",
+  "a": [
+   "W esperanto",
+   "W simlish",
+   "Po klingońsku",
+   "W odwróconym angielskim"
+  ],
+  "c": 1,
+  "f": "<b>Simlish</b> to w dużej mierze improwizowany bełkot – celowo, żeby nie trzeba było tłumaczyć gry i żeby się nie nudził. Sul sul!",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Simlish"
+ },
+ {
+  "q": "Kto zdobył najwięcej Oscarów w historii?",
+  "a": [
+   "Meryl Streep",
+   "Steven Spielberg",
+   "Walt Disney",
+   "Katharine Hepburn"
+  ],
+  "c": 2,
+  "f": "<b>Walt Disney</b> uzbierał 26 statuetek, wliczając honorowe. Myszka Miki ma więc w domu całą półkę złotych ludzików.",
+  "tier": 1,
+  "src": "https://www.guinnessworldrecords.com/world-records/69841-most-oscars-won-lifetime"
+ },
+ {
+  "q": "Ile mniej więcej trwa na ekranie rola Beatrice Straight w „Sieci”, nagrodzona Oscarem?",
+  "a": [
+   "Około 5 minut",
+   "Około 25 minut",
+   "Około godziny",
+   "Cały film"
+  ],
+  "c": 0,
+  "f": "Zaledwie <b>około 5 minut</b> – najkrótsza aktorska rola nagrodzona Oscarem. Krócej trwa niejedna reklama przed seansem.",
+  "tier": 3,
+  "src": "https://www.guinnessworldrecords.com/world-records/91097-shortest-role-to-win-an-acting-oscar"
+ },
+ {
+  "q": "Z czego robiono statuetki Oscara podczas II wojny światowej?",
+  "a": [
+   "Z czekolady",
+   "Z malowanego gipsu",
+   "Ze szkła",
+   "Z drewna orzechowego"
+  ],
+  "c": 1,
+  "f": "Przez braki metalu zwycięzcy dostawali <b>malowany gips</b>. Po wojnie mogli je wymienić na prawdziwe – gipsowy Oscar nie znosił upadków.",
+  "tier": 3,
+  "src": "https://www.oscars.org/oscars/statuette"
+ },
+ {
+  "q": "Za którym razem nominowany dźwiękowiec Kevin O'Connell w końcu dostał Oscara?",
+  "a": [
+   "Za 3. razem",
+   "Za 9. razem",
+   "Za 15. razem",
+   "Za 21. razem"
+  ],
+  "c": 3,
+  "f": "Przegrał 20 razy z rzędu, aż w 2017 r., za <b>21. nominacją</b>, wygrał za „Przełęcz ocalonych”. Mistrz cierpliwości.",
+  "tier": 4,
+  "src": "https://www.npr.org/2017/02/19/515770382/after-21-nominations-will-sound-mixer-kevin-oconnell-finally-win-his-oscar"
+ },
+ {
+  "q": "Kto ma najwięcej nominacji aktorskich do Oscara w historii?",
+  "a": [
+   "Jack Nicholson",
+   "Meryl Streep",
+   "Leonardo DiCaprio",
+   "Tom Hanks"
+  ],
+  "c": 1,
+  "f": "<b>Meryl Streep</b> ma ponad 20 nominacji. Na galę mogłaby chyba przychodzić w kapciach, bo to dla niej jak drugi dom.",
+  "tier": 1,
+  "src": "https://www.guinnessworldrecords.com/world-records/74363-most-oscar-nominations-for-an-actress"
+ },
+ {
+  "q": "Co się stało przy ogłaszaniu Najlepszego Filmu na Oscarach w 2017 roku?",
+  "a": [
+   "Zgasło światło w całym Hollywood",
+   "Ogłoszono „La La Land” zamiast „Moonlight”",
+   "Statuetka spadła ze sceny",
+   "Prowadzący zapomnieli otworzyć kopertę"
+  ],
+  "c": 1,
+  "f": "Prezenterzy dostali złą kopertę i ekipa <b>„La La Land”</b> zdążyła już dziękować, zanim wyszło, że wygrał „Moonlight”.",
+  "tier": 1,
+  "src": "https://www.snopes.com/2017/02/27/oscars-mix-up/"
+ },
+ {
+  "q": "Ile Oscarów zdobył „Władca Pierścieni: Powrót króla” na 11 nominacji?",
+  "a": [
+   "5",
+   "8",
+   "10",
+   "11"
+  ],
+  "c": 3,
+  "f": "Wszystkie <b>11 na 11</b> – czysta zmiata. Jeden film, by rządzić wszystkimi kategoriami.",
+  "tier": 1,
+  "src": "https://nzhistory.govt.nz/page/lord-rings-wins-11-oscars"
+ },
+ {
+  "q": "Który film zarobił najwięcej w historii, jeśli uwzględnić inflację?",
+  "a": [
+   "„Avatar”",
+   "„Titanic”",
+   "„Przeminęło z wiatrem”",
+   "„Avengers: Koniec gry”"
+  ],
+  "c": 2,
+  "f": "Po przeliczeniu na dzisiejsze pieniądze króluje <b>„Przeminęło z wiatrem”</b> z 1939 r. Dziadkowie chodzili do kina częściej, niż myślisz.",
+  "tier": 3,
+  "src": "https://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/"
+ },
+ {
+  "q": "Co spotkało Stevena Spielberga, gdy chciał studiować w szkole filmowej USC?",
+  "a": [
+   "Przyjęli go bez egzaminu",
+   "Został odrzucony, i to nie raz",
+   "Wyrzucono go za kradzież kamery",
+   "Wykładał tam jako nastolatek"
+  ],
+  "c": 1,
+  "f": "Prestiżowa szkoła filmowa <b>odrzuciła</b> przyszłego twórcę „Szczęk” i „E.T.”. Później chętnie przyjmowała od niego wsparcie.",
+  "tier": 2,
+  "src": "https://www.theblackandblue.com/2011/04/05/the-steven-spielberg-three-step-guide-to-rejection"
+ },
+ {
+  "q": "Co zrobił Christopher Lee (Saruman, Drakula) po osiemdziesiątce?",
+  "a": [
+   "Zdobył Mount Everest",
+   "Nagrał albumy metalowe",
+   "Został pilotem F1",
+   "Otworzył bar z wampirami"
+  ],
+  "c": 1,
+  "f": "Sir Christopher wydał <b>metalowe albumy</b> o Karolu Wielkim – ostatni na 91. urodziny. Najbardziej heavy emeryt świata.",
+  "tier": 2,
+  "src": "https://www.loudersound.com/features/christopher-lee-heavy-metal-charlemagne-judas-priest-black-sabbath"
+ },
+ {
+  "q": "Czym wyróżniał się Christopher Lee wśród obsady „Władcy Pierścieni”?",
+  "a": [
+   "Jako jedyny przeczytał scenariusz",
+   "Jako jedyny spotkał Tolkiena osobiście",
+   "Grał wszystkie orki naraz",
+   "Nie lubił fantastyki"
+  ],
+  "c": 1,
+  "f": "Lee był jedynym członkiem obsady, który <b>poznał Tolkiena</b> osobiście. Co roku czytał też całą trylogię.",
+  "tier": 3,
+  "src": "https://faroutmagazine.co.uk/only-lord-of-the-rings-actor-personally-met-j-r-r-tolkien/"
+ },
+ {
+  "q": "W jakiej dziedzinie doktorat ma Brian May, gitarzysta Queen?",
+  "a": [
+   "W astrofizyce",
+   "W weterynarii",
+   "W filologii klasycznej",
+   "W architekturze"
+  ],
+  "c": 0,
+  "f": "May obronił doktorat z <b>astrofizyki</b> w 2007 r., ponad 30 lat po przerwaniu studiów. Pył międzyplanetarny musiał poczekać na koniec trasy.",
+  "tier": 2,
+  "src": "https://www.imperial.ac.uk/news/21834/"
+ },
+ {
+  "q": "Mayim Bialik zagrała neurobiolożkę Amy w „Teorii wielkiego podrywu”. A w prawdziwym życiu…",
+  "a": [
+   "Nie skończyła liceum",
+   "Ma doktorat z neuronauki",
+   "Jest pilotką myśliwców",
+   "Hoduje lamy w Peru"
+  ],
+  "c": 1,
+  "f": "Bialik naprawdę ma <b>doktorat z neuronauki</b> z UCLA. Rola wymagała od niej niewiele udawania.",
+  "tier": 1,
+  "src": "https://alumni.ucla.edu/?p=841"
+ },
+ {
+  "q": "Pod jakim nazwiskiem Natalie Portman współtworzyła artykuł naukowy w czasie studiów na Harvardzie?",
+  "a": [
+   "Natalie Hershlag",
+   "Natalie Skywalker",
+   "Natalie Amidala",
+   "Nie napisała żadnego"
+  ],
+  "c": 0,
+  "f": "Jako <b>Natalie Hershlag</b> (jej prawdziwe nazwisko) współtworzyła pracę o płatach czołowych mózgu. Królowa Amidala zna się na neuronach.",
+  "tier": 4,
+  "src": "https://themarysue.com/?p=180627"
+ },
+ {
+  "q": "Co wynalazła gwiazda Hollywood Hedy Lamarr?",
+  "a": [
+   "Szminkę wodoodporną",
+   "Technikę skakania po częstotliwościach",
+   "Popcorn z mikrofalówki",
+   "Pierwsze sztuczne rzęsy"
+  ],
+  "c": 1,
+  "f": "Lamarr opatentowała <b>skakanie po częstotliwościach</b>, przodka technologii używanych w Wi-Fi i Bluetooth. Gwiazda kina z duszą inżyniera.",
+  "tier": 2,
+  "src": "https://www.aps.org/apsnews/2011/06/this-month-in-physics-history"
+ },
+ {
+  "q": "Co studiował Rowan Atkinson, czyli Jaś Fasola?",
+  "a": [
+   "Pantomimę w Paryżu",
+   "Elektrotechnikę",
+   "Medycynę weterynaryjną",
+   "Teologię"
+  ],
+  "c": 1,
+  "f": "Atkinson ma tytuł magistra <b>elektrotechniki</b> z Oksfordu. Jaś Fasola mógłby więc sam naprawić swojego Mini.",
+  "tier": 2,
+  "src": "https://www.todayifoundout.com/index.php/2011/12/the-guy-who-played-mr-bean-has-a-masters-degree-in-electrical-engineering/"
+ },
+ {
+  "q": "Kim był Ken Jeong (Mr. Chow z „Kac Vegas”) przed karierą komika?",
+  "a": [
+   "Lekarzem",
+   "Kierowcą limuzyny",
+   "Zawodowym bokserem",
+   "Kucharzem w Las Vegas"
+  ],
+  "c": 0,
+  "f": "Jeong był <b>lekarzem</b> internistą z licencją. Między dyżurami występował w klubach komediowych.",
+  "tier": 2,
+  "src": "https://www.bestcolleges.com/news/ken-jeong-doctor-medical-school-degree/"
+ },
+ {
+  "q": "Jaki urząd piastował Clint Eastwood w latach 80.?",
+  "a": [
+   "Szeryf Teksasu",
+   "Burmistrz miasteczka Carmel w Kalifornii",
+   "Ambasador USA we Włoszech",
+   "Dyrektor zoo w San Diego"
+  ],
+  "c": 1,
+  "f": "W 1986 r. Brudny Harry został <b>burmistrzem Carmel-by-the-Sea</b>. Rządził dwa lata – bez rewolweru.",
+  "tier": 2,
+  "src": "https://www.history.com/articles/clint-eastwood-california-mayor-carmel-scrooge-city"
+ },
+ {
+  "q": "Czym zarabiał Harrison Ford, zanim został Hanem Solo?",
+  "a": [
+   "Był stolarzem",
+   "Był pilotem linii lotniczych",
+   "Był ratownikiem na plaży",
+   "Sprzedawał odkurzacze"
+  ],
+  "c": 0,
+  "f": "Ford był <b>stolarzem</b>, robił meble m.in. w Hollywood. Sokół Millennium to przy tym tylko większa szafa.",
+  "tier": 1,
+  "src": "https://www.maxwellleadership.com/blog/from-making-cabinets-to-making-millions/"
+ },
+ {
+  "q": "Jaką dorywczą pracę miał Brad Pitt przed sławą?",
+  "a": [
+   "Przebierał się za kurczaka przed restauracją",
+   "Pozował jako posąg w parku",
+   "Tresował papugi",
+   "Był sobowtórem Toma Cruise'a"
+  ],
+  "c": 0,
+  "f": "Pitt zachęcał klientów sieci El Pollo Loco w <b>stroju kurczaka</b>. Każda kariera od czegoś się zaczyna.",
+  "tier": 1,
+  "src": "https://www.nbclosangeles.com/local/brad-pitt-chicken-suits-holding-onto-your-dreams/2104381/"
+ },
+ {
+  "q": "Co Nicolas Cage musiał oddać Mongolii w 2015 roku?",
+  "a": [
+   "Skradzioną czaszkę dinozaura",
+   "Konia wyścigowego",
+   "Zabytkową jurtę",
+   "Złotego Oscara"
+  ],
+  "c": 0,
+  "f": "Cage kupił na aukcji <b>czaszkę tyranozaura</b> za 276 tys. dolarów. Okazało się, że wywieziono ją nielegalnie – wróciła do Mongolii.",
+  "tier": 3,
+  "src": "https://www.smithsonianmag.com/smart-news/nicholas-cage-and-case-stolen-tyrannosaurus-skull-180957614/"
+ },
+ {
+  "q": "Co zrobiono z głosem Arnolda Schwarzeneggera w jego debiucie „Herkules w Nowym Jorku”?",
+  "a": [
+   "Zdubbingowano go innym aktorem",
+   "Podkręcono go o oktawę w górę",
+   "Zastąpiono napisami",
+   "Nic – grał niemego"
+  ],
+  "c": 0,
+  "f": "Akcent był tak mocny, że <b>zdubbingowano go</b>. W napisach występował jako „Arnold Strong”.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Hercules_in_New_York"
+ },
+ {
+  "q": "Który Beatles był narratorem pierwszej serii „Tomka i przyjaciół” (Thomas the Tank Engine)?",
+  "a": [
+   "Paul McCartney",
+   "Ringo Starr",
+   "John Lennon",
+   "George Harrison"
+  ],
+  "c": 1,
+  "f": "Opowieści o lokomotywie czytał <b>Ringo Starr</b>. Perkusista Beatlesów w końcu też pilnował rytmu – tylko kół.",
+  "tier": 4,
+  "src": "https://faroutmagazine.co.uk/ringo-starr-thomas-the-tank-engine/"
+ },
+ {
+  "q": "Jaki roboczy tytuł miał przebój Beatlesów „Yesterday”?",
+  "a": [
+   "„Scrambled Eggs” (Jajecznica)",
+   "„Tomorrow”",
+   "„Rainy Monday”",
+   "„Song Number Nine”"
+  ],
+  "c": 0,
+  "f": "Zanim McCartney wymyślił tekst, śpiewał pod melodię o <b>jajecznicy</b>. Jeden z najczęściej coverowanych utworów zaczął się od śniadania.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Yesterday_(song)"
+ },
+ {
+  "q": "Co trzeba było robić aż do 2015 roku, żeby zaśpiewać „Happy Birthday” w filmie?",
+  "a": [
+   "Płacić tantiemy właścicielowi praw",
+   "Śpiewać tylko w Wielkiej Brytanii",
+   "Zaprosić autorkę na plan",
+   "Nic, piosenka zawsze była darmowa"
+  ],
+  "c": 0,
+  "f": "Wytwórnia przez dekady inkasowała <b>tantiemy</b> za „Sto lat” po amerykańsku, aż sąd uznał jej prawa za nieważne.",
+  "tier": 3,
+  "src": "https://www.foxla.com/news/judge-rules-happy-birthday-song-copyright-is-not-valid"
+ },
+ {
+  "q": "Co „zepsuł” teledysk „Gangnam Style” w 2014 roku?",
+  "a": [
+   "Serwery Spotify",
+   "Licznik wyświetleń YouTube'a",
+   "Rekord Guinnessa w tańcu",
+   "Zegar atomowy w Seulu"
+  ],
+  "c": 1,
+  "f": "Liczba wyświetleń przekroczyła ok. 2,1 mld – maksimum <b>licznika YouTube'a</b>. Trzeba było go rozbudować dla jednego tańca na niby-koniu.",
+  "tier": 1,
+  "src": "https://techcrunch.com/2014/12/03/gangnam-style-has-been-viewed-so-many-times-it-broke-youtubes-code/"
+ },
+ {
+  "q": "Kiedy ma się skończyć wykonanie utworu Johna Cage'a „As Slow As Possible” na organach w Halberstadt?",
+  "a": [
+   "W 2030 roku",
+   "W 2100 roku",
+   "W 2640 roku",
+   "Nigdy – gra w pętli"
+  ],
+  "c": 2,
+  "f": "Koncert ruszył w 2001 r. i potrwa do <b>2640 roku</b>. Akordy zmieniają się raz na kilka lat – i to jest wydarzenie!",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/As_Slow_as_Possible"
+ },
+ {
+  "q": "Na jakiej uczelni studiował Mick Jagger, zanim wybrał Rolling Stonesów?",
+  "a": [
+   "W Akademii Sztuk Pięknych",
+   "W London School of Economics",
+   "W szkole kucharskiej",
+   "W akademii wojskowej Sandhurst"
+  ],
+  "c": 1,
+  "f": "Jagger studiował w <b>London School of Economics</b>. Ekonomia przydała się potem – Stonesi to też świetnie zarządzana firma.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Mick_Jagger"
+ },
+ {
+  "q": "W jakiej jednostce armii USA służył Jimi Hendrix?",
+  "a": [
+   "W 101. Dywizji Powietrznodesantowej",
+   "W orkiestrze marynarki wojennej",
+   "W piechocie morskiej",
+   "W wojskach rakietowych"
+  ],
+  "c": 0,
+  "f": "Hendrix był <b>spadochroniarzem</b> 101. Dywizji. Już tam ponoć nie rozstawał się z gitarą.",
+  "tier": 4,
+  "src": "https://www.wearethemighty.com/music/jimi-hendrix-got-his-musical-start-while-in-the-101st-airborne/"
+ },
+ {
+  "q": "Kto jest rekordzistą pod względem liczby zdobytych nagród Grammy?",
+  "a": [
+   "Michael Jackson",
+   "Taylor Swift",
+   "Beyoncé",
+   "Elvis Presley"
+  ],
+  "c": 2,
+  "f": "<b>Beyoncé</b> ma ponad 30 statuetek Grammy, najwięcej w historii. Potrzebuje chyba osobnego pokoju na półki.",
+  "tier": 1,
+  "src": "https://www.hollywoodreporter.com/news/music-news/beyonce-most-grammys-record-wins-history-1235318326/"
+ },
+ {
+  "q": "Jaki był naturalny kolor włosów Elvisa Presleya?",
+  "a": [
+   "Kruczoczarny",
+   "Ciemny blond",
+   "Rudy",
+   "Siwy od dziecka"
+  ],
+  "c": 1,
+  "f": "Król rock and rolla był naturalnie <b>blondynem</b>. Czarną czuprynę zawdzięczał farbie.",
+  "tier": 2,
+  "src": "https://www.grunge.com/898319/weve-been-completely-fooled-about-elvis-hair-this-whole-time/"
+ },
+ {
+  "q": "Jakie były pierwsze słowa wypowiedziane przez Myszkę Miki (1929)?",
+  "a": [
+   "„Hiya, pal!”",
+   "„Hot dogs!”",
+   "„Oh boy!”",
+   "„Minnie!”"
+  ],
+  "c": 1,
+  "f": "W „The Karnival Kid” Miki sprzedaje parówki i woła <b>„Hot dogs!”</b>. Pierwsze słowa – i od razu reklama jedzenia.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/The_Karnival_Kid"
+ },
+ {
+  "q": "Jakie drugie imię ma Kaczor Donald?",
+  "a": [
+   "Fauntleroy",
+   "Quackington",
+   "Mortimer",
+   "Nie ma drugiego imienia"
+  ],
+  "c": 0,
+  "f": "Pełne dane: Donald <b>Fauntleroy</b> Duck. Brzmi jak arystokrata, zachowuje się jak wiecznie wkurzony kaczor.",
+  "tier": 3,
+  "src": "https://www.todayifoundout.com/index.php/2012/11/donald-ducks-middle-name/"
+ },
+ {
+  "q": "Kim był Stephen Hillenburg, twórca SpongeBoba, zanim zajął się animacją?",
+  "a": [
+   "Nauczycielem biologii morskiej",
+   "Kucharzem w barze z burgerami",
+   "Nurkiem wojskowym",
+   "Sprzedawcą gąbek"
+  ],
+  "c": 0,
+  "f": "Hillenburg uczył <b>biologii morskiej</b>. Bikini Dolne to w sumie lekcja przyrody, tylko ze śpiewającą gąbką.",
+  "tier": 2,
+  "src": "https://dotandline.net/how-stephen-hillenburgs-background-in-marine-biology-helped-influence-spongebob-squarepants/"
+ },
+ {
+  "q": "Kto według oryginalnego komiksu stworzył Smerfetkę?",
+  "a": [
+   "Papa Smerf",
+   "Gargamel",
+   "Ważniak",
+   "Matka Natura"
+  ],
+  "c": 1,
+  "f": "Smerfetkę ulepił z gliny <b>Gargamel</b>, żeby narobić zamętu w wiosce. Papa Smerf potem ją „odczarował”.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Smurfette"
+ },
+ {
+  "q": "Co oznacza „J.” w imieniu Homera J. Simpsona?",
+  "a": [
+   "Jebediah",
+   "Jay",
+   "Joseph",
+   "Nic – to tylko litera"
+  ],
+  "c": 1,
+  "f": "To <b>Jay</b> – hołd Matta Groeninga dla Jaya Warda, twórcy kreskówki o łosiu Bullwinkle'u. D'oh!",
+  "tier": 4,
+  "src": "https://www.mentalfloss.com/article/57016/surprising-origins-tv-character-names"
+ },
+ {
+  "q": "Ile Oscarów zdobyły krótkometrażówki z Tomem i Jerrym?",
+  "a": [
+   "Ani jednego",
+   "Jednego honorowego",
+   "Siedem",
+   "Dwadzieścia"
+  ],
+  "c": 2,
+  "f": "Kot i mysz zgarnęli aż <b>siedem Oscarów</b> za animowane krótkie metraże. Gonitwa po kuchni to sztuka.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Tom_and_Jerry"
+ },
+ {
+  "q": "Jaką słynną postać od lat dubbinguje Mark Hamill, czyli Luke Skywalker?",
+  "a": [
+   "Jokera",
+   "Shreka",
+   "Kaczora Donalda",
+   "Optimusa Prime'a"
+  ],
+  "c": 0,
+  "f": "Hamill to kultowy głos <b>Jokera</b> w animowanym Batmanie i grach. Jedi przeszedł na stronę śmiechu.",
+  "tier": 1,
+  "src": "https://pastemagazine.com/tv/batman-the-animated-series/batman-the-animated-series-joker-mark-hamill-legacy"
+ },
+ {
+  "q": "Kim był Steve Buscemi, zanim został aktorem?",
+  "a": [
+   "Strażakiem w Nowym Jorku",
+   "Kelnerem w pizzerii mafii",
+   "Fryzjerem gwiazd",
+   "Detektywem policji"
+  ],
+  "c": 0,
+  "f": "Buscemi przez kilka lat był <b>strażakiem</b> FDNY. Gaszenie pożarów zamienił na grę w filmach braci Coen.",
+  "tier": 3,
+  "src": "https://www.fireengineering.com/firefighting/firefighter-turned-actor-steve-buscemi-on-firefighting-and-the-fdny/"
+ }
+]

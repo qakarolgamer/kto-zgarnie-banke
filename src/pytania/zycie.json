@@ -1,0 +1,678 @@
+[
+ {
+  "q": "Co roztopiło się w kieszeni Percy'ego Spencera, gdy przy radarze wpadł na pomysł mikrofalówki?",
+  "a": [
+   "Baton czekoladowy",
+   "Lody na patyku",
+   "Kostka masła",
+   "Plastikowy grzebień"
+  ],
+  "c": 0,
+  "f": "Inżynier stał przy magnetronie, a w kieszeni zrobił mu się <b>czekoladowy</b> sos. Zamiast się wściec – opatentował kuchenkę.",
+  "tier": 1,
+  "src": "https://lemelson.mit.edu/resources/percy-spencer"
+ },
+ {
+  "q": "Kto wymyślił lody na patyku (1905)?",
+  "a": [
+   "Eskimoski kucharz",
+   "Królowa Wiktoria",
+   "11-letni chłopiec",
+   "Inżynierowie z NASA"
+  ],
+  "c": 2,
+  "f": "Mały Frank Epperson zostawił na mrozie napój z mieszadełkiem. Rano miał <b>loda na patyku</b>, a potem – patent.",
+  "tier": 1,
+  "src": "https://www.npr.org/sections/thesalt/2015/07/22/425294957/how-an-11-year-old-boy-invented-the-popsicle"
+ },
+ {
+  "q": "Co produkował Ferruccio Lamborghini, zanim zaczął robić auta sportowe?",
+  "a": [
+   "Traktory",
+   "Pralki",
+   "Makaron",
+   "Skutery wodne"
+  ],
+  "c": 0,
+  "f": "Najpierw <b>traktory</b>. Legenda głosi, że wkurzyło go sprzęgło w jego Ferrari – więc zbudował własne superauto.",
+  "tier": 1,
+  "src": "https://www.jalopnik.com/ferruccio-lamborghini-fixed-his-hated-ferrari-with-a-cl-1759677501/"
+ },
+ {
+  "q": "Co według twórcy Pac-Mana, Toru Iwataniego, zainspirowało kształt bohatera?",
+  "a": [
+   "Żółty kurczak",
+   "Głodny chomik",
+   "Księżyc w pełni",
+   "Pizza bez jednego kawałka"
+  ],
+  "c": 3,
+  "f": "Iwatani spojrzał na <b>pizzę</b>, z której zniknął kawałek – i tak narodził się najsłynniejszy żarłok gier.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Pac-Man_(character)"
+ },
+ {
+  "q": "W którym kraju klasyczne jajko Kinder Niespodzianka jest zakazane?",
+  "a": [
+   "W Japonii",
+   "W Polsce",
+   "W Niemczech",
+   "W USA"
+  ],
+  "c": 3,
+  "f": "Amerykańskie przepisy zakazują zatapiania <b>niejadalnych przedmiotów</b> w słodyczach. Zabawka w czekoladzie = kontrabanda.",
+  "tier": 1,
+  "src": "https://www.marketplace.org/story/2017/04/14/why-fda-doesnt-chocolate-eggs-toys-inside"
+ },
+ {
+  "q": "Co zawierała oryginalna Coca-Cola z 1886 roku?",
+  "a": [
+   "Ekstrakt z liści koki",
+   "Sproszkowane mrówki",
+   "Mleko wielbłądzie",
+   "Wodę z Niagary"
+  ],
+  "c": 0,
+  "f": "Pierwsza receptura miała ekstrakt z <b>liści koki</b>, a napój reklamowano jako tonik na nerwy. Dzisiejsza receptura jest już bez kokainy.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Coca-Cola"
+ },
+ {
+  "q": "Co zainspirowało George'a de Mestrala do wynalezienia rzepów na ubrania?",
+  "a": [
+   "Ośmiornica na plaży",
+   "Pajęczyna w piwnicy",
+   "Rzepy łopianu w sierści psa",
+   "Język kameleona"
+  ],
+  "c": 2,
+  "f": "Po spacerze jego pies był oblepiony <b>rzepami</b>. Szwajcar zajrzał pod mikroskop i tak powstał Velcro.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Velcro"
+ },
+ {
+  "q": "Czym botanicznie jest orzeszek ziemny?",
+  "a": [
+   "Orzechem jak laskowy",
+   "Rośliną strączkową",
+   "Grzybem podziemnym",
+   "Nasionem kaktusa"
+  ],
+  "c": 1,
+  "f": "Orzeszek ziemny to krewny grochu i fasoli – <b>roślina strączkowa</b>. Z orzechem ma wspólną tylko nazwę.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Peanut"
+ },
+ {
+  "q": "Do czego wrzucano piłkę w pierwszym meczu koszykówki (1891)?",
+  "a": [
+   "Do hełmów strażackich",
+   "Do garnków z kuchni",
+   "Do beczek po piwie",
+   "Do koszy na brzoskwinie"
+  ],
+  "c": 3,
+  "f": "James Naismith przybił do balkonu <b>kosze na brzoskwinie</b>. Po każdym celnym rzucie ktoś wyciągał piłkę… ręcznie.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/James_Naismith"
+ },
+ {
+  "q": "Gdzie powstał Tetris?",
+  "a": [
+   "W ZSRR",
+   "W Japonii",
+   "W USA",
+   "W Polsce"
+  ],
+  "c": 0,
+  "f": "Aleksiej Pażytnow stworzył go w 1984 r. w moskiewskim instytucie, w <b>ZSRR</b>. Klocki spadały najpierw na radzieckim komputerze.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Tetris"
+ },
+ {
+  "q": "Co najczęściej kryje się pod nazwą „wasabi” w sushi poza Japonią?",
+  "a": [
+   "Prawdziwy korzeń wasabi",
+   "Zielony groszek z chili",
+   "Chrzan z barwnikiem",
+   "Sproszkowane awokado"
+  ],
+  "c": 2,
+  "f": "Prawdziwe wasabi jest drogie i trudne w uprawie, więc zwykle dostajesz <b>chrzan</b> z musztardą i zielonym barwnikiem.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Wasabi"
+ },
+ {
+  "q": "Co łączy założycieli marek Adidas i Puma?",
+  "a": [
+   "Byli braćmi",
+   "Byli tą samą osobą",
+   "Byli bliźniaczkami",
+   "Byli mistrzami olimpijskimi"
+  ],
+  "c": 0,
+  "f": "Adolf i Rudolf Dasslerowie – <b>bracia</b>, którzy się pokłócili i założyli dwie konkurencyjne firmy w jednym miasteczku.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/Adidas"
+ },
+ {
+  "q": "Od kogo wzięła nazwę kanapka, czyli „sandwich”?",
+  "a": [
+   "Od miasta Sandwich w Teksasie",
+   "Od wyspy Sandwich na Pacyfiku",
+   "Od piekarza Sandy'ego Wicha",
+   "Od angielskiego hrabiego"
+  ],
+  "c": 3,
+  "f": "Nazwa pochodzi od Johna Montagu, 4. <b>hrabiego Sandwich</b>, który ponoć jadł mięso między kromkami, by nie odchodzić od stołu.",
+  "tier": 1,
+  "src": "https://en.wikipedia.org/wiki/John_Montagu,_4th_Earl_of_Sandwich"
+ },
+ {
+  "q": "Co znaczy nazwa LEGO?",
+  "a": [
+   "Inicjały założycieli: L. i Ego",
+   "„Nadepnij boleśnie” po norwesku",
+   "„Baw się dobrze” po duńsku",
+   "Skrót od „Legoland”"
+  ],
+  "c": 2,
+  "f": "To skrót od duńskiego <b>„leg godt”</b>, czyli „baw się dobrze”. O nadeptywaniu w nocy nikt nie wspominał.",
+  "tier": 2,
+  "src": "https://www.lego.com/de-lu/aboutus/news/2026/february/90-year-history-of-the-lego-name"
+ },
+ {
+  "q": "Gdzie wymyślono pizzę hawajską?",
+  "a": [
+   "Na Hawajach",
+   "W Neapolu",
+   "W Kanadzie",
+   "W Tokio"
+  ],
+  "c": 2,
+  "f": "Ananas na pizzy to pomysł Greka Sama Panopoulosa z Ontario w <b>Kanadzie</b> (1962). Hawaje są winne tylko nazwy.",
+  "tier": 2,
+  "src": "https://www.thecanadianencyclopedia.ca/en/article/hawaiian-pizza"
+ },
+ {
+  "q": "Skąd naprawdę pochodzą ciasteczka z wróżbą z chińskich restauracji?",
+  "a": [
+   "Z cesarskiego Pekinu",
+   "Z Tybetu",
+   "Z Hongkongu",
+   "Z USA, a pomysł mieli Japończycy"
+  ],
+  "c": 3,
+  "f": "Spopularyzowały się w <b>Kalifornii</b>, a korzenie mają w japońskich wypiekach. W Chinach są właściwie nieznane.",
+  "tier": 2,
+  "src": "https://www.history.com/articles/fortune-cookies-invented-chinese-japanese"
+ },
+ {
+  "q": "Która z tych dyscyplin była kiedyś olimpijska?",
+  "a": [
+   "Przeciąganie liny",
+   "Rzut beretem",
+   "Skoki przez kałuże",
+   "Wyścigi ślimaków"
+  ],
+  "c": 0,
+  "f": "W latach 1900–1920 za <b>przeciąganie liny</b> dawano olimpijskie medale. Kałuże wciąż czekają na swoją szansę.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_Summer_Olympics"
+ },
+ {
+  "q": "Co pokazywała jedna z pierwszych kamer internetowych na Uniwersytecie Cambridge?",
+  "a": [
+   "Akwarium z rybkami",
+   "Dzbanek z kawą",
+   "Kota portiera",
+   "Toster w akademiku"
+  ],
+  "c": 1,
+  "f": "Naukowcy nie chcieli chodzić na próżno, więc podglądali <b>dzbanek z kawą</b>. Prawdziwy napęd postępu.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot"
+ },
+ {
+  "q": "Jaki owad znaleziono w 1947 r. w komputerze Harvard Mark II i wklejono do dziennika jako „pierwszy bug”?",
+  "a": [
+   "Karalucha",
+   "Pająka",
+   "Ćmę",
+   "Mrówkę"
+  ],
+  "c": 2,
+  "f": "Zespół Grace Hopper wyciągnął <b>ćmę</b> z przekaźnika i wkleił ją taśmą do notatek. Pierwszy debugging dosłownie.",
+  "tier": 2,
+  "src": "https://www.computerhistory.org/tdih/september/9/"
+ },
+ {
+  "q": "Kim z zawodu był współtwórca maszyny do waty cukrowej, William Morrison?",
+  "a": [
+   "Dentystą",
+   "Pszczelarzem",
+   "Strażakiem",
+   "Fryzjerem"
+  ],
+  "c": 0,
+  "f": "Tak, <b>dentysta</b>. Jedni nazwą to geniuszem biznesu, inni – dbaniem o przyszłych pacjentów.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/William_Morrison_(dentist)"
+ },
+ {
+  "q": "Jak nazywał się Mario w grze Donkey Kong z 1981 roku?",
+  "a": [
+   "Pizza Man",
+   "Wąsaty Joe",
+   "Luigi",
+   "Jumpman"
+  ],
+  "c": 3,
+  "f": "Był <b>Jumpmanem</b> i… cieślą, a nie hydraulikiem. Rury i grzyby przyszły później.",
+  "tier": 2,
+  "src": "https://www.mariowiki.com/Jumpman"
+ },
+ {
+  "q": "Od czego pochodzi nazwa Bluetooth?",
+  "a": [
+   "Od duńskiego króla",
+   "Od rekina błękitnego",
+   "Od marki pasty do zębów",
+   "Od zęba wynalazcy po jagodach"
+  ],
+  "c": 0,
+  "f": "Od wikińskiego króla <b>Haralda Sinozębego</b>, który zjednoczył Danię i Norwegię. Logo to jego inicjały w runach.",
+  "tier": 2,
+  "src": "https://www.creativebloq.com/news/bluetooth-logo-secret"
+ },
+ {
+  "q": "Skąd wzięła się nazwa „spam” dla śmieciowej poczty?",
+  "a": [
+   "Od skrótu „Send Phony Ads Massively”",
+   "Od nazwiska hakera Spamowskiego",
+   "Od skeczu Monty Pythona",
+   "Od dźwięku starego modemu"
+  ],
+  "c": 2,
+  "f": "W skeczu <b>Monty Pythona</b> wszyscy bez końca powtarzają „Spam” (nazwę konserwy) i zagłuszają rozmowę. Brzmi znajomo?",
+  "tier": 2,
+  "src": "https://cwiki.apache.org/confluence/display/SPAMASSASSIN/Spam"
+ },
+ {
+  "q": "Z czego głównie jest zrobiony olimpijski „złoty” medal?",
+  "a": [
+   "Z czystego złota",
+   "Z czekolady w sreberku",
+   "Z mosiądzu",
+   "Ze srebra"
+  ],
+  "c": 3,
+  "f": "To głównie <b>srebro</b>, tylko pozłacane – złota jest tam kilka gramów. Ostatnie medale z litego złota rozdano w 1912 r.",
+  "tier": 2,
+  "src": "https://www.garfieldrefining.com/resources/blog/are-olympic-gold-medals-made-of-real-gold/"
+ },
+ {
+  "q": "Od czego zaczynała Nokia w 1865 roku?",
+  "a": [
+   "Od produkcji saun",
+   "Od reniferowych sań",
+   "Od papierni",
+   "Od gorzelni"
+  ],
+  "c": 2,
+  "f": "Pierwszy był młyn papierniczy, czyli <b>papiernia</b> nad fińską rzeką. Do telefonów było jeszcze ponad 100 lat.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/History_of_Nokia"
+ },
+ {
+  "q": "Co próbował wynaleźć chemik z 3M, gdy przypadkiem stworzył klej do karteczek Post-it?",
+  "a": [
+   "Gumę do żucia",
+   "Superpotężny klej",
+   "Krem do opalania",
+   "Zmywacz do paznokci"
+  ],
+  "c": 1,
+  "f": "Spencer Silver chciał <b>superpotężnego kleju</b>, a wyszedł mu taki, co ledwo trzyma. Karteczki samoprzylepne mówią „dziękuję”.",
+  "tier": 2,
+  "src": "https://en.wikipedia.org/wiki/Post-it_note"
+ },
+ {
+  "q": "Nad czym pracował Harry Coover, gdy po raz pierwszy trafił na super glue?",
+  "a": [
+   "Nad przezroczystymi celownikami",
+   "Nad sztucznymi rzęsami",
+   "Nad podeszwami butów",
+   "Nad gumą do żucia"
+  ],
+  "c": 0,
+  "f": "Podczas II wojny szukał materiału na <b>przezroczyste celowniki</b>, ale substancja kleiła się do wszystkiego. Odrzucił ją… na kilka lat.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Harry_Coover"
+ },
+ {
+  "q": "Jak miał się pierwotnie nazywać Amazon?",
+  "a": [
+   "Cadabra",
+   "Bookzilla",
+   "Jeffshop",
+   "Abrakadabra.pl"
+  ],
+  "c": 0,
+  "f": "Bezos wybrał <b>Cadabra</b>, ale prawnik przez telefon usłyszał „cadaver” (zwłoki). Szybka zmiana na rzekę.",
+  "tier": 3,
+  "src": "https://www.businessinsider.in/how-amazon-got-its-name/articleshow/64068170.cms"
+ },
+ {
+  "q": "W jakim mieście wymyślono sałatkę Cezar?",
+  "a": [
+   "W Rzymie",
+   "W Las Vegas",
+   "W Tijuanie (Meksyk)",
+   "W Paryżu"
+  ],
+  "c": 2,
+  "f": "Włoski imigrant Caesar Cardini podał ją w swojej restauracji w <b>Tijuanie</b> w 1924 r. Juliusz Cezar nie miał z tym nic wspólnego.",
+  "tier": 3,
+  "src": "https://www.kuow.org/stories/hail-caesar-salad-born-100-years-ago-in-tijuana"
+ },
+ {
+  "q": "Od czego wzięło się słowo „frisbee”?",
+  "a": [
+   "Od blaszanych foremek po ciastach",
+   "Od pokryw od śmietników",
+   "Od nazwiska kosmity z filmu",
+   "Od greckiego „latający talerz”"
+  ],
+  "c": 0,
+  "f": "Studenci rzucali pustymi foremkami z piekarni <b>Frisbie Pie Company</b>. Ciasto zjedzone, zabawa zostaje.",
+  "tier": 3,
+  "src": "https://www.atlasobscura.com/places/the-frisbie-pie-company"
+ },
+ {
+  "q": "Po co Lizzie Magie wymyśliła grę, z której powstało Monopoly?",
+  "a": [
+   "Żeby uczyć dzieci liczyć",
+   "Żeby wygrać zakład z bankierem",
+   "Żeby promować kolej",
+   "Żeby ostrzec przed chciwymi kamienicznikami"
+  ],
+  "c": 3,
+  "f": "Jej „The Landlord's Game” miała pokazać, jak <b>zbijanie fortuny na czynszach</b> rujnuje innych. Wyszło odwrotnie – wszyscy chcą hotel.",
+  "tier": 3,
+  "src": "https://publicdomainreview.org/collection/the-landlords-game"
+ },
+ {
+  "q": "Do czego pierwotnie reklamowano chusteczki Kleenex (1924)?",
+  "a": [
+   "Do polerowania butów",
+   "Jako filtry do kawy",
+   "Do zmywania makijażu",
+   "Jako serwetki na wesela"
+  ],
+  "c": 2,
+  "f": "Miały ścierać krem i <b>makijaż</b>. Dopiero klienci odkryli, że świetnie się w nie… wydmuchuje nos.",
+  "tier": 3,
+  "src": "https://en.wikipedia.org/wiki/Kleenex"
+ },
+ {
+  "q": "Kto odnalazł skradziony puchar mistrzostw świata w piłce nożnej w 1966 roku?",
+  "a": [
+   "Detektyw ze Scotland Yardu",
+   "Pies o imieniu Pickles",
+   "Sprzątaczka ze stadionu",
+   "Kibic Brazylii"
+  ],
+  "c": 1,
+  "f": "Właściciel wyszedł z psem na spacer, a <b>Pickles</b> zaczął obwąchiwać paczkę pod żywopłotem. W środku – Puchar Jules'a Rimeta.",
+  "tier": 3,
+  "src": "https://nationalfootballmuseum.com/news/thank-you-pickles-50-years-since-a-dog-saved-the-world-cup/"
+ },
+ {
+  "q": "Kogo przedstawiało pierwsze logo firmy Apple (1976)?",
+  "a": [
+   "Adama i Ewę",
+   "Królewnę Śnieżkę",
+   "Izaaka Newtona pod drzewem",
+   "Wilhelma Tella z łukiem"
+  ],
+  "c": 2,
+  "f": "Narysował je Ronald Wayne: <b>Newton</b> siedzący pod jabłonią. Nadgryzione jabłuszko wygrało rok później.",
+  "tier": 3,
+  "src": "https://www.infobae.com/en/2022/03/15/the-story-behind-apples-first-logo"
+ },
+ {
+  "q": "Jak miał na imię ptaszek z logo Twittera?",
+  "a": [
+   "Tweety",
+   "Bob",
+   "Ptysiek",
+   "Larry"
+  ],
+  "c": 3,
+  "f": "Nazwano go <b>Larry</b> na cześć koszykarza Larry'ego Birda z Boston Celtics. Bird = ptak, rozumiecie.",
+  "tier": 3,
+  "src": "https://nesn.com/2011/08/twitter-co-founder-biz-stone-confirms-logos-bird-named-larry-after-larry-bird/"
+ },
+ {
+  "q": "Ile zapłacono studentce Carolyn Davidson za zaprojektowanie logo Nike w 1971 roku?",
+  "a": [
+   "35 dolarów",
+   "350 tysięcy dolarów",
+   "Używany samochód",
+   "Milion dolarów w akcjach"
+  ],
+  "c": 0,
+  "f": "Słynny „swoosh” kosztował <b>35 dolarów</b>. Później firma dorzuciła jej pierścionek i akcje – trochę lepiej.",
+  "tier": 3,
+  "src": "https://www.cnbc.com/2018/09/05/heres-how-much-nikes-billionaire-founder-paid-for-its-swoosh-logo.html"
+ },
+ {
+  "q": "Co oprócz aut Peugeot robi od XIX wieku do dziś?",
+  "a": [
+   "Młynki do pieprzu",
+   "Sery pleśniowe",
+   "Akordeony",
+   "Perfumy o zapachu opon"
+  ],
+  "c": 0,
+  "f": "<b>Młynki do pieprzu</b> z lwem produkują od 1874 r. – dłużej niż samochody. Kuchnia z silnikiem w genach.",
+  "tier": 3,
+  "src": "https://jalopnik.com/you-might-have-a-peugeot-in-your-kitchen-1851375246"
+ },
+ {
+  "q": "Za co jeszcze rozdawano medale olimpijskie w latach 1912–1948?",
+  "a": [
+   "Za najładniejszy wąs",
+   "Za gotowanie",
+   "Za taniec towarzyski",
+   "Za malarstwo i literaturę"
+  ],
+  "c": 3,
+  "f": "Były konkursy <b>artystyczne</b>: malarstwo, rzeźba, muzyka, literatura, architektura. Złoto za wiersz, czemu nie.",
+  "tier": 3,
+  "src": "https://www.olympedia.org/sports/ART"
+ },
+ {
+  "q": "Ile czasu Ernő Rubik potrzebował, by ułożyć swoją własną kostkę po raz pierwszy?",
+  "a": [
+   "5 minut",
+   "Ok. miesiąca",
+   "12 lat",
+   "Nigdy jej nie ułożył"
+  ],
+  "c": 1,
+  "f": "Wynalazca męczył się około <b>miesiąca</b>. Dzisiejsi rekordziści robią to w kilka sekund.",
+  "tier": 3,
+  "src": "https://qz.com/935952/it-took-the-inventor-of-the-rubiks-cube-a-month-to-solve-his-own-puzzle"
+ },
+ {
+  "q": "Dlaczego Walter Hunt wymyślił agrafkę w 1849 roku?",
+  "a": [
+   "Żeby spłacić dług 15 dolarów",
+   "Bo zgubił guzik na randce",
+   "Na zamówienie wojska",
+   "Na zakład z żoną"
+  ],
+  "c": 0,
+  "f": "Musiał oddać koledze <b>15 dolarów</b>, więc wygiął drut w kilka godzin i sprzedał patent za 400. Dług spłacony, fortuna przegapiona.",
+  "tier": 4,
+  "src": "https://www.history.com/this-day-in-history/april-10/safety-pin-patented-walter-hunt"
+ },
+ {
+  "q": "Jak pierwotnie nazywała się siatkówka?",
+  "a": [
+   "Siatkonoga",
+   "Balonówka",
+   "Mintonette",
+   "Pacnij-ball"
+  ],
+  "c": 2,
+  "f": "William Morgan nazwał ją w 1895 r. <b>Mintonette</b>. Na szczęście ktoś zauważył, że piłkę się głównie „wolejuje”.",
+  "tier": 4,
+  "src": "https://olympics.com/ioc/news/volleyball-a-brief-history"
+ },
+ {
+  "q": "Co oznaczała nazwa Wi-Fi, gdy agencja Interbrand wymyśliła ją w 1999 roku?",
+  "a": [
+   "Wielki Internet – Fajny Internet",
+   "Wireless Finland",
+   "Wiring Finished",
+   "Nic – miała brzmieć jak Hi-Fi"
+  ],
+  "c": 3,
+  "f": "Nazwa była <b>chwytliwym słowem bez znaczenia</b>, rymującym się z Hi-Fi. Rozwinięcie „Wireless Fidelity” dorobiono później.",
+  "tier": 4,
+  "src": "https://thehustle.co/wi-fi-doesnt-stand-for-anything"
+ },
+ {
+  "q": "Jak jadło się Giandujot – przodka Nutelli z 1946 roku?",
+  "a": [
+   "Piło się go przez słomkę",
+   "Rozpuszczało się go w mleku",
+   "Wyciskało się go z tubki",
+   "Kroiło się go nożem w plastry"
+  ],
+  "c": 3,
+  "f": "Pietro Ferrero zrobił z orzechów laskowych i odrobiny kakao twardy <b>blok do krojenia</b> na chleb. Smarowalna wersja przyszła później.",
+  "tier": 4,
+  "src": "https://www.nutella.com/us/en/history"
+ },
+ {
+  "q": "Co wynaleziono wcześniej: zapalniczkę czy zapałkę tarciową?",
+  "a": [
+   "Zapałkę, o ok. 100 lat",
+   "Zapalniczkę",
+   "Oba tego samego dnia",
+   "Zapałkę, ale tylko w Szwecji"
+  ],
+  "c": 1,
+  "f": "Lampa-<b>zapalniczka</b> Döbereinera powstała w 1823 r., a zapałka tarciowa Walkera dopiero w 1826 r.",
+  "tier": 4,
+  "src": "https://www.todayifoundout.com/?p=2453"
+ },
+ {
+  "q": "Który z tych wynalazków jest starszy od telefonu (1876)?",
+  "a": [
+   "Radio",
+   "Telewizor",
+   "Faks",
+   "Gramofon"
+  ],
+  "c": 2,
+  "f": "Szkot Alexander Bain opatentował przesyłanie obrazów drutem już w 1843 r. <b>Faks</b> jest starszy od telefonu o ponad 30 lat.",
+  "tier": 4,
+  "src": "https://www.todayifoundout.com/index.php/2014/11/shockingly-old-history-fax-machine/"
+ },
+ {
+  "q": "Z jaką prędkością jechał Walter Arnold, gdy dostał pierwszy mandat za prędkość (1896)?",
+  "a": [
+   "Ok. 13 km/h",
+   "Ok. 3 km/h",
+   "Ok. 50 km/h",
+   "Ok. 120 km/h"
+  ],
+  "c": 0,
+  "f": "Pędził 8 mil/h, czyli ok. <b>13 km/h</b>, przy limicie 2 mile/h. Ścigał go policjant… na rowerze.",
+  "tier": 4,
+  "src": "https://moneyweek.com/376781/28-january-1896-the-worlds-first-speeding-ticket"
+ },
+ {
+  "q": "Co zrobił Sylvan Goldman, gdy klienci nie chcieli używać jego wózków sklepowych?",
+  "a": [
+   "Dawał piwo do każdego wózka",
+   "Przemalował wózki na złoto",
+   "Zakazał noszenia koszyków",
+   "Zatrudnił aktorów udających klientów"
+  ],
+  "c": 3,
+  "f": "Mężczyźni czuli się niemęsko, kobiety – jak z wózkiem dziecięcym. Goldman wynajął <b>fałszywych klientów</b>, żeby pokazali, że to modne.",
+  "tier": 4,
+  "src": "https://www.smithsonianmag.com/history/industrious-grocer-1930s-wanted-make-easier-customers-buy-more-just-needed-push-180987633/"
+ },
+ {
+  "q": "Do czego służyła pierwsza piła łańcuchowa, wymyślona pod koniec XVIII wieku?",
+  "a": [
+   "Do pomocy przy trudnych porodach",
+   "Do strzyżenia owiec",
+   "Do cięcia lodu na jeziorach",
+   "Do krojenia sera"
+  ],
+  "c": 0,
+  "f": "Dwaj szkoccy lekarze stworzyli ją jako narzędzie chirurgiczne do <b>trudnych porodów</b>. Do drewna przerobiono ją dużo później.",
+  "tier": 4,
+  "src": "https://www.scotsman.com/heritage-and-retro/retro/why-were-chainsaws-invented-how-tool-was-used-during-childbirth-and-scottish-surgeons-who-created-it-3031236"
+ },
+ {
+  "q": "Co sprzedawał pierwszy automat na monety, opisany przez Herona z Aleksandrii?",
+  "a": [
+   "Wino",
+   "Oliwę z oliwek",
+   "Wodę święconą",
+   "Bilety do teatru"
+  ],
+  "c": 2,
+  "f": "Wrzucało się monetę do świątynnego automatu i dostawało porcję <b>wody święconej</b>. Vending sprzed 2000 lat.",
+  "tier": 4,
+  "src": "https://www.mentalfloss.com/history/worlds-first-vending-machine-dispensed-holy-water"
+ },
+ {
+  "q": "Dlaczego maraton ma dziwne 42,195 km?",
+  "a": [
+   "Tyle przebiegł koń posłańca",
+   "Tyle wynosi obwód Aten",
+   "Bo pomylono mile z kilometrami",
+   "Przez trasę w Londynie w 1908 r."
+  ],
+  "c": 3,
+  "f": "Na igrzyskach w <b>Londynie 1908</b> trasę ułożono od zamku Windsor do mety przed lożą królewską. Ten dystans potem został na stałe.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Athletics_at_the_1908_Summer_Olympics_%E2%80%93_Men%27s_marathon"
+ },
+ {
+  "q": "Jak nazywała się Pepsi, zanim została Pepsi?",
+  "a": [
+   "Gaz-o-Brad",
+   "Fizzy Lizzy",
+   "Brad's Drink",
+   "Doctor Pep"
+  ],
+  "c": 2,
+  "f": "Aptekarz Caleb Bradham nazwał ją skromnie <b>„Brad's Drink”</b>, czyli „Napój Brada”. Po 5 latach postawił na marketing.",
+  "tier": 4,
+  "src": "https://en.wikipedia.org/wiki/Caleb_Bradham"
+ },
+ {
+  "q": "Ile mniej więcej rośnie ananas, zanim da jeden owoc?",
+  "a": [
+   "2 tygodnie",
+   "2 miesiące",
+   "Ok. 2 lata",
+   "20 lat"
+  ],
+  "c": 2,
+  "f": "Roślina potrzebuje około <b>półtora do dwóch lat</b> na jeden owoc. Szanuj tę puszkę.",
+  "tier": 4,
+  "src": "https://discover.pbc.gov/coextension/agriculture/PDF/Pineapple.pdf"
+ }
+]
