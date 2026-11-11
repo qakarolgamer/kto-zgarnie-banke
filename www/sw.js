@@ -1,6 +1,6 @@
 // Prosty service worker: gra działa offline po pierwszym uruchomieniu.
-const CACHE='banka-v1';
-const FILES=['./','index.html','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png'];
+const CACHE='banka-v2';
+const FILES=['./','index.html','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png','fonts/fonts.css','fonts/inter-latin-400-normal.woff2','fonts/inter-latin-600-normal.woff2','fonts/inter-latin-800-normal.woff2','fonts/inter-latin-ext-400-normal.woff2','fonts/inter-latin-ext-600-normal.woff2','fonts/inter-latin-ext-800-normal.woff2','fonts/unbounded-latin-600-normal.woff2','fonts/unbounded-latin-800-normal.woff2','fonts/unbounded-latin-ext-600-normal.woff2','fonts/unbounded-latin-ext-800-normal.woff2'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)));self.skipWaiting()});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==CACHE).map(x=>caches.delete(x)))));self.clients.claim()});
 self.addEventListener('fetch',e=>{

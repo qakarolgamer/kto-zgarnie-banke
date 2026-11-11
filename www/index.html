@@ -12,7 +12,9 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="icon" href="icons/icon-192.png">
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@600;800&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: blob:; connect-src 'self'; media-src 'self' data: blob:; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="fonts/fonts.css">
 <style>
 :root{--bg:#07051a;--v:#7c3aed;--c:#22d3ee;--p:#f472b6;--g:#fbbf24;--ok:#22c55e;--bad:#ef4444;--txt:#f5f3ff;--mut:#a5a3c9;--glass:rgba(255,255,255,.06);--line:rgba(255,255,255,.13)}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -4120,7 +4122,7 @@ function beep(type){
 const MALE=/krzysztof|marek|jakub|adam|pawe|piotr|tomasz|micha|jan\b|grzegorz|andrzej|male|mężczyzna|man\b/i;
 const QUALITY=/natural|neural|enhanced|premium|ulepszon|online/i;
 let VS={uri:'',pitch:.8,rate:1.0,story:true};
-try{Object.assign(VS,JSON.parse(localStorage.getItem('zdzislawVoice')||'{}'))}catch(e){}
+
 function saveVS(){try{localStorage.setItem('zdzislawVoice',JSON.stringify(VS))}catch(e){}}
 function allVoices(){try{return speechSynthesis.getVoices()||[]}catch(e){return []}}
 function scoreVoice(v){let s=0;const l=(v.lang||'').toLowerCase();if(l.startsWith('pl'))s+=100;if(MALE.test(v.name))s+=20;if(QUALITY.test(v.name))s+=8;if(/google/i.test(v.name))s+=2;return s}
@@ -4180,16 +4182,18 @@ function say(html,mood,extraSpeech){
 /* --- gra --- */
 let S={};
 function show(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('on',s.id===id));app.classList.toggle('playing',id==='game');window.scrollTo({top:0,behavior:'smooth'})}
+const esc=s=>String(s).replace(/[&<>"'`=\/]/g,c=>'&#'+c.charCodeAt(0)+';');
+const cleanName=s=>String(s||'').replace(/[<>&"'`=\/\\{}]/g,'').replace(/[\u0000-\u001f\u007f]/g,'').trim().slice(0,14);
 let PNAME='';
-try{PNAME=localStorage.getItem('bankaName')||''}catch(e){}
+try{PNAME=cleanName(localStorage.getItem('bankaName'))}catch(e){}
 $('pname').value=PNAME;
-function setName(n){PNAME=n;$('podName').textContent=(n||'GRACZ').toUpperCase().slice(0,10);try{localStorage.setItem('bankaName',n)}catch(e){}}
+function setName(n){n=cleanName(n);PNAME=n;$('podName').textContent=(n||'GRACZ').toUpperCase().slice(0,10);try{localStorage.setItem('bankaName',n)}catch(e){}}
 if(PNAME)setName(PNAME);
 $('pname').addEventListener('input',e=>{$('namebox').classList.remove('err');$('podName').textContent=(e.target.value.trim()||'GRACZ').toUpperCase().slice(0,10)});
 $('pname').addEventListener('keydown',e=>{if(e.key==='Enter'){e.target.blur();$('go').click()}});
 function newGame(){
   const qs=[];
-  let SEEN=[];try{SEEN=JSON.parse(localStorage.getItem('bankaSeen')||'[]')}catch(e){}
+  let SEEN=[];try{const s=JSON.parse(localStorage.getItem('bankaSeen')||'[]');if(Array.isArray(s))SEEN=s.filter(x=>typeof x==='string').slice(-250)}catch(e){}
   POOL.forEach(tier=>{const fr=shuffle(tier.filter(q=>!SEEN.includes(q.q))),ol=shuffle(tier.filter(q=>SEEN.includes(q.q)));
     fr.concat(ol).slice(0,3).forEach(q=>{const o=shuffle([0,1,2,3]);qs.push({q:q.q,a:o.map(i=>q.a[i]),c:o.indexOf(q.c),f:q.f})})});
   try{localStorage.setItem('bankaSeen',JSON.stringify(SEEN.concat(qs.map(q=>q.q)).slice(-250)))}catch(e){}
@@ -4363,7 +4367,7 @@ $('ladderBtn').onclick=()=>{
 
 /* --- start --- */
 $('go').onclick=()=>{
-  const n=$('pname').value.trim().replace(/[<>&"]/g,'');
+  const n=cleanName($('pname').value);
   if(!n){$('namebox').classList.remove('err');void $('namebox').offsetWidth;$('namebox').classList.add('err');
     say("No i co, baranie? Imienia nie masz? Wpisz je, bo nie będę do ciebie mówił „hej ty”.",'mad');$('pname').focus();return}
   setName(n);beep('tick');newGame()};

@@ -1,0 +1,11 @@
+# Co tydzień sprawdza aktualizacje akcji GitHuba i bibliotek npm i proponuje je jako pull request.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly

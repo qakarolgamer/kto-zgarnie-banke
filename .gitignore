@@ -4,3 +4,13 @@ ios/
 *.apk
 *.aab
 .DS_Store
+# Sekrety i klucze podpisu – nigdy do repozytorium
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+key.properties
+google-services.json
+GoogleService-Info.plist
